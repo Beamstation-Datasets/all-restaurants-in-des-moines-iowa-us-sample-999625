@@ -1,0 +1,12 @@
+{
+  "export_job_id": "1fbe45e5-e795-4cc7-bee9-665bdd0190ae",
+  "id_short": 999625,
+  "published_at": "2026-04-16T07:29:46Z",
+  "repo_name": "all-restaurants-in-des-moines-iowa-us-sample-999625",
+  "sample_asset_name": "beamstation_999625_restaurants-us-ia_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/999625/beamstation_999625_restaurants-us-ia_SAMPLE_DIST.csv",
+  "sample_records": 54,
+  "sample_sha256": "8dd6bec2f1368639a41be8fa670db2c13c0fe7527dd5dd3f297a9e42ad9720e8",
+  "sample_size_bytes": 192137,
+  "total_records": 545
+}
