@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Detailed restaurant dataset for Des Moines, Iowa, a growing city of 214k+. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in Des Moines, Iowa, US",
+  "export_job_id": "1fbe45e5-e795-4cc7-bee9-665bdd0190ae",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 999625,
+  "location_name": "Des Moines",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-des-moines-iowa-us-sample-999625",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/999625/beamstation_999625_restaurants-us-ia_SAMPLE_DIST.csv",
+  "sample_pct": 9.91,
+  "sample_records": 54,
+  "sample_sha256": "8dd6bec2f1368639a41be8fa670db2c13c0fe7527dd5dd3f297a9e42ad9720e8",
+  "sample_size_bytes": 192137,
+  "total_records": 545,
+  "updated_at": "2026-04-09T09:27:00.590788+00:00"
+}
