@@ -1,6 +1,6 @@
 # All Restaurants in Des Moines, Iowa, US
 
-> Free BeamStation sample export with 53 rows and masked direct-contact fields.
+> Free BeamStation sample export with 17 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `999625` |
 | Location | Des Moines |
 | Category | Restaurants |
-| Full dataset size | 539 records |
-| Free sample size | 53 records (9.83%) |
-| Last export | 2026-04-16T09:25:26.284381+00:00 |
+| Full dataset size | 176 records |
+| Free sample size | 17 records (9.66%) |
+| Last export | 2026-04-23T09:24:13.408861+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-des-moines-iowa-us-sample-999625/releases/download/sample-latest/beamstation_999625_restaurants-us-ia_SAMPLE_DIST.csv) |
 
 ## What is in this sample
